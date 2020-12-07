@@ -3,7 +3,7 @@ import json
 import base64
 
 client_id = '40d5bd41416e48c29cf3f8aac94b6682'
-client_secret = '079dfe29a3954d309493b9942e7bd80d'
+client_secret = '**************************'
 
 def getAccessToken(client_id, client_secret):
     # encode client_id and client_secret into base64
